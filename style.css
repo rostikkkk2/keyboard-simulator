@@ -1,0 +1,28 @@
+.inputs-difficulty{
+  margin: auto;
+  width: 100px;
+}
+
+.text{
+  font-size: 27px;
+  color: blue;
+}
+.mist p{
+  font-weight: bold;
+  font-size: 20px;
+}
+span{
+  font-weight: bold;
+  font-size: 20px;
+
+}
+.mistakes{
+  color: red;
+}
+
+.green{
+  color: green;
+}
+.input{
+  font-size: 20px;
+}
